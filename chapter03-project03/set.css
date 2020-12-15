@@ -1,0 +1,21 @@
+.cas{
+    position: relative;
+    max-width: 1000px;
+}
+.cas .cass{
+    position: absolute;
+    bottom: 0;
+    background: white;
+    color: orange;
+    width: 180px;
+    padding: 20px;
+}
+.cas h2{
+    position: absolute;
+    top: 0%;
+    background: white;
+    color: red;
+    width: 200%
+        padding:90px;
+    font-family: Six Caps;
+}
