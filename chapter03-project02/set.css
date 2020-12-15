@@ -1,0 +1,55 @@
+section
+{
+    margin-top: 1em;
+    margin-right: 6em;
+    margin-bottom: 1em;
+    margin-left: 6em;
+}
+
+header,footer{
+    margin-top: 1em;
+    margin-right: 6em;
+    margin-bottom: 1em;
+    margin-left: 6em;
+    background-color: cadetblue;
+}
+.id{
+    background-color: cadetblue;
+    
+}
+
+nav#hello{
+    text-align: right;
+}
+cd{
+    text-align: left;
+}
+h1{
+    color:white;
+    font-size:30px;
+    background-color: cadetblue;
+}
+
+.cas{
+    background-color: cadetblue;
+    padding: 0.5em;
+    margin-top: 1em;
+}
+h3{
+    background-color: cadetblue;
+    border-top:2px solid black;
+    border-bottom:2px solid black;
+    color: aqua;
+    
+}
+.cass{
+    background-color: cadetblue;
+    padding:0.5em;
+    margin-top: 1em;
+}
+.pd,.gh,.ab{
+    border-left:2px solid black;
+    border-right:2px solid black;
+    border-bottom:2px solid black;
+    }
+
